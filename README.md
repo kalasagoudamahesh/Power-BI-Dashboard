@@ -1,6 +1,6 @@
-# Power BI Dashboard Project
+# Sales Analysis Dashboard
 
-This repository contains a Power BI dashboard project showcasing sales and revenue trends. The dashboard provides interactive visualizations and insights to help analyze key metrics.
+This repository contains a Sales Analysis Dashboard project showcasing sales and revenue trends. The dashboard provides interactive visualizations and insights to help analyze key metrics.
 
 ## Files Included
 - **`dashboard.pbix`**: The Power BI report file containing the dashboard and visualizations.
